@@ -8,9 +8,10 @@ public:
             else st.push(ch);
         }
         while(!st.empty()){
-            newS.insert(0,1,st.top());
+            newS+=st.top();
             st.pop();
         }
+        reverse(newS.begin(),newS.end());
         return newS;
     }
 };
