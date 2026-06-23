@@ -4,14 +4,11 @@ public:
         stack<char>st;
         string newS="";
         for(char ch:s){
-            if(ch=='*')st.pop();
-            else st.push(ch);
+            if(ch=='*'){
+                if(newS.size()>0)newS.pop_back();
+            }
+            else newS.push_back(ch);
         }
-        while(!st.empty()){
-            newS+=st.top();
-            st.pop();
-        }
-        reverse(newS.begin(),newS.end());
         return newS;
     }
 };
