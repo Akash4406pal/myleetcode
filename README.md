@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/Akash4406pal/myleetcode/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akash4406pal/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2942-find-words-containing-character](https://github.com/Akash4406pal/myleetcode/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
