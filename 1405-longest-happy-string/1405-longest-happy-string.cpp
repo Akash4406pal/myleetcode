@@ -14,9 +14,10 @@ public:
         if(size>1 && ans[size-1]==ch && ans[size-2]==ch){
             if(pq.empty())return ans;
             else {
-                ans+=pq.top().second;
-                if(pq.top().first>1)pq.push({pq.top().first-1,pq.top().second});
+                auto[count2,ch2]=pq.top();
+                ans+=ch2;
                 pq.pop();
+                if(count2>1)pq.push({count2-1,ch2});
                 pq.push({freq,ch});
             }}
         else {
