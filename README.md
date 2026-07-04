@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/Akash4406pal/myleetcode/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/Akash4406pal/myleetcode/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/Akash4406pal/myleetcode/tree/master/1405-longest-happy-string) |
 | [2129-capitalize-the-title](https://github.com/Akash4406pal/myleetcode/tree/master/2129-capitalize-the-title) |
