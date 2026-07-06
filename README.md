@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Akash4406pal/myleetcode/tree/master/2129-capitalize-the-title) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Akash4406pal/myleetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2937-make-three-strings-equal](https://github.com/Akash4406pal/myleetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/Akash4406pal/myleetcode/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash4406pal/myleetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Akash4406pal/myleetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
