@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Akash4406pal/myleetcode/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Akash4406pal/myleetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/Akash4406pal/myleetcode/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akash4406pal/myleetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
 | [1143-longest-common-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/Akash4406pal/myleetcode/tree/master/1405-longest-happy-string) |
@@ -113,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Akash4406pal/myleetcode/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/Akash4406pal/myleetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akash4406pal/myleetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
