@@ -1,18 +1,16 @@
 class Solution {
 public:
     int countQuadruplets(vector<int>& nums) {
-        int ans=0;
-        for(int i=0;i<nums.size()-3;i++){
-            int sum=nums[i];
-            for(int j=i+1;j<nums.size()-2;j++){
-                sum=nums[i]+nums[j];
-                for(int k=j+1;k<nums.size()-1;k++){
-                    sum=nums[i]+nums[j]+nums[k];
-                    for(int l=k+1;l<nums.size();l++){
-                        if(sum==nums[l])ans++;
-                    }
-                }
-            }
+        int ans=0,n=nums.size();
+        vector<int>freq(201,0);
+        for(int i=0;i<n-1;i++){
+           for(int j=i+1;j<n;j++){
+            int tar=nums[j]-nums[i];
+            if(tar>0 && tar<=200)ans+=freq[tar];
+           }
+           for(int k=0;k<i;k++){
+            freq[nums[k]+nums[i]]++;
+           }
         }
         return ans;
     }
