@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Akash4406pal/myleetcode/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/Akash4406pal/myleetcode/tree/master/1995-count-special-quadruplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akash4406pal/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2942-find-words-containing-character](https://github.com/Akash4406pal/myleetcode/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akash4406pal/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1995-count-special-quadruplets](https://github.com/Akash4406pal/myleetcode/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Akash4406pal/myleetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash4406pal/myleetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Akash4406pal/myleetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Binary Search
