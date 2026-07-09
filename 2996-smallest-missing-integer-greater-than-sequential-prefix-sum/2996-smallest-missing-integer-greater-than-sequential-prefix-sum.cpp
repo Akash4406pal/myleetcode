@@ -6,10 +6,7 @@ public:
         unordered_set<int>st;
         for(int i=1;i<n;i++){
             if(nums[i]==nums[i-1]+1)seqSum+=nums[i];
-            else{
-                endIdx=i;
-                break;
-            }
+            else break;
         }
         for(int i=0;i<n;i++){
             st.insert(nums[i]);
