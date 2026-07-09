@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Akash4406pal/myleetcode/tree/master/2129-capitalize-the-title) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Akash4406pal/myleetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2707-extra-characters-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2937-make-three-strings-equal](https://github.com/Akash4406pal/myleetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/Akash4406pal/myleetcode/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash4406pal/myleetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Akash4406pal/myleetcode/tree/master/1995-count-special-quadruplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akash4406pal/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2707-extra-characters-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Akash4406pal/myleetcode/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akash4406pal/myleetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Akash4406pal/myleetcode/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Akash4406pal/myleetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2707-extra-characters-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akash4406pal/myleetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash4406pal/myleetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Akash4406pal/myleetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -134,8 +137,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Akash4406pal/myleetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akash4406pal/myleetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/1143-longest-common-subsequence) |
+| [2707-extra-characters-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Akash4406pal/myleetcode/tree/master/0014-longest-common-prefix) |
+| [2707-extra-characters-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2707-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
