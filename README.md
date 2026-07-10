@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Akash4406pal/myleetcode/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Akash4406pal/myleetcode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/Akash4406pal/myleetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/Akash4406pal/myleetcode/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Akash4406pal/myleetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Akash4406pal/myleetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash4406pal/myleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Akash4406pal/myleetcode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/Akash4406pal/myleetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0735-asteroid-collision](https://github.com/Akash4406pal/myleetcode/tree/master/0735-asteroid-collision) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Akash4406pal/myleetcode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/Akash4406pal/myleetcode/tree/master/0139-word-break) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1995-count-special-quadruplets](https://github.com/Akash4406pal/myleetcode/tree/master/1995-count-special-quadruplets) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Akash4406pal/myleetcode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/Akash4406pal/myleetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Akash4406pal/myleetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akash4406pal/myleetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -142,5 +146,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Akash4406pal/myleetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Akash4406pal/myleetcode/tree/master/0139-word-break) |
 | [2707-extra-characters-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2707-extra-characters-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Akash4406pal/myleetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
