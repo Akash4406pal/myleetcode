@@ -13,7 +13,6 @@ public:
     ListNode* removeNodes(ListNode* head) {
         stack<ListNode*>st;
         ListNode* curr=head;
-        vector<ListNode*>newList;
         while(curr){
             while(!st.empty()&&st.top()->val<curr->val){
                 st.pop();
@@ -21,25 +20,13 @@ public:
             st.push(curr);
             curr=curr->next;
         }
+        ListNode* prev=nullptr;
         while(!st.empty()){
-            newList.push_back(st.top());
+            curr=st.top();
+            curr->next=prev;
+            prev=curr;
             st.pop();
         }
-        if(newList.size()==0)return nullptr;
-        else{
-            reverse(newList.begin(),newList.end());
-            head=nullptr;
-            curr=head;
-            int i=0;
-            while(i<newList.size()){
-                curr=newList[i];
-                if(!head)head=curr;
-                i++;
-                if(i<newList.size()){
-                curr->next=newList[i];
-                curr=curr->next;}
-                else curr->next=nullptr;
-        }}
-        return head;
+        return curr;
     }
 };
