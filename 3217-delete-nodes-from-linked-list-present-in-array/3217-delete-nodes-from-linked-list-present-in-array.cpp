@@ -13,19 +13,20 @@ public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
         unordered_set<int>st;
         for(int num:nums)st.insert(num);
+        ListNode dummy(0);
         ListNode* curr=head;
-        ListNode* prev=nullptr;
+        ListNode* prev=&dummy;
         while(curr){
             if(st.contains(curr->val)){
-                if(prev)prev->next=curr->next;
+                prev->next=curr->next;
                 curr=curr->next;
             }
             else {
-                if(!prev)head=curr;
+                prev->next=curr;
                 prev=curr;
                 curr=curr->next;
             }
         }
-        return head;
+        return dummy.next;
     }
 };
