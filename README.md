@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Akash4406pal/myleetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -152,4 +153,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Akash4406pal/myleetcode/tree/master/0139-word-break) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
