@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1534-count-good-triplets](https://github.com/Akash4406pal/myleetcode/tree/master/1534-count-good-triplets) |
+| [1652-defuse-the-bomb](https://github.com/Akash4406pal/myleetcode/tree/master/1652-defuse-the-bomb) |
 | [1995-count-special-quadruplets](https://github.com/Akash4406pal/myleetcode/tree/master/1995-count-special-quadruplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akash4406pal/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/Akash4406pal/myleetcode/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
