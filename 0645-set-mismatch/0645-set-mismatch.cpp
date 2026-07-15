@@ -2,13 +2,12 @@ class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
      vector<int>ans(2,0);
-     unordered_map<int,int>mpp;
-     for(int num:nums)mpp[num]++;
-     for(int i=1;i<=nums.size();i++){
-        if(mpp.find(i)!=mpp.end()){
-            if(mpp[i]==2)ans[0]=i;
-        }
-        else ans[1]=i;
+     int n=nums.size();
+     vector<int>freq(n+1,0);
+     for(int num:nums)freq[num]++;
+     for(int i=1;i<=n;i++){
+        if(freq[i]==2)ans[0]=i;
+        else if(freq[i]==0) ans[1]=i;
      }
      return ans;
     }
