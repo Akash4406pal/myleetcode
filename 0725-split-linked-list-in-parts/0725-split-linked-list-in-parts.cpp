@@ -24,13 +24,19 @@ public:
         curr=head;
         int i=0;
         for(int i=0;i<k;i++){
-            ans[i]=curr;
-            int rem_nodes=avg+(extra-->0?1:0)-1;
+            int curr_nodes=0;
             ListNode* temp=nullptr;
-            while(rem_nodes>=0){
+            while(curr_nodes<avg){
+                if(!ans[i])ans[i]=curr;
                 temp=curr;
                 if(curr)curr=curr->next;
-                rem_nodes--;
+                curr_nodes++;
+            }
+            if(extra>0){
+                if(!ans[i])ans[i]=curr;
+                temp=curr;
+                if(curr)curr=curr->next;
+                extra--;
             }
             if(temp)temp->next=nullptr;
         }
