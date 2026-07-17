@@ -205,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Akash4406pal/myleetcode/tree/master/0645-set-mismatch) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Akash4406pal/myleetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
