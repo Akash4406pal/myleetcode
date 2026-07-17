@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/0328-odd-even-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Akash4406pal/myleetcode/tree/master/0725-split-linked-list-in-parts) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/2487-remove-nodes-from-linked-list) |
