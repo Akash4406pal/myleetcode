@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
 | [1143-longest-common-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/Akash4406pal/myleetcode/tree/master/1405-longest-happy-string) |
+| [1980-find-unique-binary-string](https://github.com/Akash4406pal/myleetcode/tree/master/1980-find-unique-binary-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Akash4406pal/myleetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2129-capitalize-the-title](https://github.com/Akash4406pal/myleetcode/tree/master/2129-capitalize-the-title) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Akash4406pal/myleetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1534-count-good-triplets](https://github.com/Akash4406pal/myleetcode/tree/master/1534-count-good-triplets) |
 | [1652-defuse-the-bomb](https://github.com/Akash4406pal/myleetcode/tree/master/1652-defuse-the-bomb) |
+| [1980-find-unique-binary-string](https://github.com/Akash4406pal/myleetcode/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/Akash4406pal/myleetcode/tree/master/1995-count-special-quadruplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akash4406pal/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Akash4406pal/myleetcode/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1980-find-unique-binary-string](https://github.com/Akash4406pal/myleetcode/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/Akash4406pal/myleetcode/tree/master/1995-count-special-quadruplets) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Akash4406pal/myleetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Akash4406pal/myleetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Akash4406pal/myleetcode/tree/master/0176-second-highest-salary) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Akash4406pal/myleetcode/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
