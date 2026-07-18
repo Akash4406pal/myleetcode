@@ -10,7 +10,7 @@ public:
             }
             st.insert(num);
         }
-        for(int i=0;i<number;i++){
+        for(int i=0;i<=number;i++){
             if(!st.contains(i)){
                 string res = "";
                 for (int j = n - 1; j >= 0; j--) {
