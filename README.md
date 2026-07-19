@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Akash4406pal/myleetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2707-extra-characters-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2707-extra-characters-in-a-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Akash4406pal/myleetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Akash4406pal/myleetcode/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akash4406pal/myleetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Akash4406pal/myleetcode/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/Akash4406pal/myleetcode/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Akash4406pal/myleetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Akash4406pal/myleetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
