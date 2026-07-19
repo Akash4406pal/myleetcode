@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Akash4406pal/myleetcode/tree/master/0367-valid-perfect-square) |
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash4406pal/myleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0278-first-bad-version](https://github.com/Akash4406pal/myleetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/Akash4406pal/myleetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Akash4406pal/myleetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akash4406pal/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
