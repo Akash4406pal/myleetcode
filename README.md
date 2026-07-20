@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Akash4406pal/myleetcode/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/Akash4406pal/myleetcode/tree/master/0367-valid-perfect-square) |
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akash4406pal/myleetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Akash4406pal/myleetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Akash4406pal/myleetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Akash4406pal/myleetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/0234-palindrome-linked-list) |
