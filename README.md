@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akash4406pal/myleetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/Akash4406pal/myleetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Akash4406pal/myleetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/0234-palindrome-linked-list) |
@@ -239,4 +241,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akash4406pal/myleetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
