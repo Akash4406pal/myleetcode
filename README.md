@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Akash4406pal/myleetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Akash4406pal/myleetcode/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Akash4406pal/myleetcode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/Akash4406pal/myleetcode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Akash4406pal/myleetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Backtracking
 |  |
