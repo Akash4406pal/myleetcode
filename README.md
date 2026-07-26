@@ -264,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Akash4406pal/myleetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Akash4406pal/myleetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
