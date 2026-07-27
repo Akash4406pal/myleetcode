@@ -16,8 +16,8 @@ public:
         if(!root->left && !root->right){
             if(root->val==targetSum)return true;
         }
-        bool l=helper(root->left,targetSum-root->val);
-        bool r=helper(root->right,targetSum-root->val);
+        bool l=root->left?helper(root->left,targetSum-root->val):false;
+        bool r=root->right?helper(root->right,targetSum-root->val):false;
         return l||r;
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
