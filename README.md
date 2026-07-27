@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0112-path-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Akash4406pal/myleetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -264,9 +265,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0112-path-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Akash4406pal/myleetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Graph Theory
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Akash4406pal/myleetcode/tree/master/1791-find-center-of-star-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
