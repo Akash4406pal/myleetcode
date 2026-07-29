@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Akash4406pal/myleetcode/tree/master/0437-path-sum-iii) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Akash4406pal/myleetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Akash4406pal/myleetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -285,10 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Akash4406pal/myleetcode/tree/master/0437-path-sum-iii) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Akash4406pal/myleetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0112-path-sum) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Akash4406pal/myleetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## String Matching
 |  |
 | ------- |
