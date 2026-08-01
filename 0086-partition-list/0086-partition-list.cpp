@@ -10,6 +10,11 @@
  */
 class Solution {
 public:
+    void helper(ListNode*& prev,queue<int>&qu){
+        while(!qu.empty()){prev->next=new ListNode(qu.front());
+        prev=prev->next;
+        qu.pop();}
+    }
     ListNode* partition(ListNode* head, int x) {
         queue<int>lesser;
         queue<int>greater;
@@ -21,16 +26,8 @@ public:
             curr=curr->next;
         }
         ListNode* prev=&dummy;
-        while(!lesser.empty()){
-            prev->next=new ListNode(lesser.front());
-            prev=prev->next;
-            lesser.pop();
-        }
-        while(!greater.empty()){
-            prev->next=new ListNode(greater.front());
-            prev=prev->next;
-            greater.pop();
-        }
+        helper(prev,lesser);
+        helper(prev,greater);
         return dummy.next;
     }
 };
