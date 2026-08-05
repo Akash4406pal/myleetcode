@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Akash4406pal/myleetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/0234-palindrome-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akash4406pal/myleetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0645-set-mismatch](https://github.com/Akash4406pal/myleetcode/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/Akash4406pal/myleetcode/tree/master/0735-asteroid-collision) |
+| [0922-sort-array-by-parity-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1534-count-good-triplets](https://github.com/Akash4406pal/myleetcode/tree/master/1534-count-good-triplets) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/Akash4406pal/myleetcode/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akash4406pal/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
