@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Akash4406pal/myleetcode/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akash4406pal/myleetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/Akash4406pal/myleetcode/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/Akash4406pal/myleetcode/tree/master/1405-longest-happy-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Akash4406pal/myleetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -333,4 +334,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Akash4406pal/myleetcode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Akash4406pal/myleetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
