@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Akash4406pal/myleetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Akash4406pal/myleetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Akash4406pal/myleetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/0234-palindrome-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Akash4406pal/myleetcode/tree/master/0148-sort-list) |
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Akash4406pal/myleetcode/tree/master/0148-sort-list) |
 | [0645-set-mismatch](https://github.com/Akash4406pal/myleetcode/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Akash4406pal/myleetcode/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/Akash4406pal/myleetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Akash4406pal/myleetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Akash4406pal/myleetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akash4406pal/myleetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -337,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0686-repeated-string-match](https://github.com/Akash4406pal/myleetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Akash4406pal/myleetcode/tree/master/0796-rotate-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Akash4406pal/myleetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
