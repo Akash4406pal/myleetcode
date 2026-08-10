@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0113-path-sum-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Akash4406pal/myleetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Akash4406pal/myleetcode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Akash4406pal/myleetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Akash4406pal/myleetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Akash4406pal/myleetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Akash4406pal/myleetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Akash4406pal/myleetcode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Akash4406pal/myleetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Akash4406pal/myleetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Graph Theory
