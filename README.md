@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Akash4406pal/myleetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/Akash4406pal/myleetcode/tree/master/0601-human-traffic-of-stadium) |
 | [1045-customers-who-bought-all-products](https://github.com/Akash4406pal/myleetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1174-immediate-food-delivery-ii](https://github.com/Akash4406pal/myleetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1280-students-and-examinations](https://github.com/Akash4406pal/myleetcode/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/Akash4406pal/myleetcode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Akash4406pal/myleetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
