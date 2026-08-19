@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Akash4406pal/myleetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Akash4406pal/myleetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/Akash4406pal/myleetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Akash4406pal/myleetcode/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Akash4406pal/myleetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash4406pal/myleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Akash4406pal/myleetcode/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/Akash4406pal/myleetcode/tree/master/0139-word-break) |
+| [0383-ransom-note](https://github.com/Akash4406pal/myleetcode/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/Akash4406pal/myleetcode/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Akash4406pal/myleetcode/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Akash4406pal/myleetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3467-transform-array-by-parity](https://github.com/Akash4406pal/myleetcode/tree/master/3467-transform-array-by-parity) |
