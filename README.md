@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Akash4406pal/myleetcode/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/Akash4406pal/myleetcode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Akash4406pal/myleetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1661-average-time-of-process-per-machine](https://github.com/Akash4406pal/myleetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Akash4406pal/myleetcode/tree/master/1683-invalid-tweets) |
 | [1907-count-salary-categories](https://github.com/Akash4406pal/myleetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Akash4406pal/myleetcode/tree/master/1934-confirmation-rate) |
