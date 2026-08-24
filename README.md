@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Akash4406pal/myleetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1907-count-salary-categories](https://github.com/Akash4406pal/myleetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Akash4406pal/myleetcode/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Akash4406pal/myleetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3421-find-students-who-improved](https://github.com/Akash4406pal/myleetcode/tree/master/3421-find-students-who-improved) |
 ## Backtracking
 |  |
