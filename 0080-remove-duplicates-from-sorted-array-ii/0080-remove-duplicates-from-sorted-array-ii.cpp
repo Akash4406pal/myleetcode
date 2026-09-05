@@ -9,7 +9,7 @@ public:
                 nums[x+1]=nums[i];
                 x+=2;
             }
-            else if(j-i==1){
+            else{
             nums[x]=nums[i];
             x++;}
             i=j;j=i;
