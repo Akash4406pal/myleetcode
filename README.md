@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0645-set-mismatch](https://github.com/Akash4406pal/myleetcode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/Akash4406pal/myleetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Akash4406pal/myleetcode/tree/master/0735-asteroid-collision) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akash4406pal/myleetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Akash4406pal/myleetcode/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akash4406pal/myleetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Tree
 |  |
