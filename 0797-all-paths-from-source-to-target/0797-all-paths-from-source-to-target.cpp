@@ -1,8 +1,9 @@
 class Solution {
 public:
     void buildPath(vector<vector<int>>& graph,int node,vector<vector<int>>&ans,vector<int>&path){
+        int n=graph.size();
         path.push_back(node);
-        if(node==graph.size()-1){
+        if(node==n-1){
             ans.push_back(path);
             path.pop_back();
             return;
