@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3467-transform-array-by-parity](https://github.com/Akash4406pal/myleetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akash4406pal/myleetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3904-smallest-stable-index-ii](https://github.com/Akash4406pal/myleetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Akash4406pal/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Akash4406pal/myleetcode/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akash4406pal/myleetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3904-smallest-stable-index-ii](https://github.com/Akash4406pal/myleetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
 |  |
 | ------- |
