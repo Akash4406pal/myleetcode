@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Akash4406pal/myleetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Akash4406pal/myleetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Akash4406pal/myleetcode/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/Akash4406pal/myleetcode/tree/master/0835-image-overlap) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akash4406pal/myleetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -430,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Akash4406pal/myleetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Akash4406pal/myleetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
