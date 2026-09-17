@@ -1,18 +1,18 @@
 class Solution {
 public:
-    void buildSet(int i,vector<int>& nums,vector<vector<int>>&ans,vector<int>& x){
-        if(i==nums.size()){
-            ans.push_back(x);
-            return;}
-        x.push_back(nums[i]);
-        buildSet(i+1,nums,ans,x);
-        x.pop_back();
-        buildSet(i+1,nums,ans,x);
-    }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int>x;
+        int n=nums.size();
         vector<vector<int>>ans;
-        buildSet(0,nums,ans,x);
+        ans.push_back({});
+        for(int i=0;i<n;i++){
+            int x=ans.size();
+            for(int j=0;j<x;j++){
+                vector<int>x;
+                x=ans[j];
+                x.push_back(nums[i]);
+                ans.push_back(x);
+            }
+        }
         return ans;
     }
 };
