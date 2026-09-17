@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Akash4406pal/myleetcode/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash4406pal/myleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Akash4406pal/myleetcode/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/Akash4406pal/myleetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash4406pal/myleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Akash4406pal/myleetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0113-path-sum-ii) |
