@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Akash4406pal/myleetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash4406pal/myleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Akash4406pal/myleetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Akash4406pal/myleetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Akash4406pal/myleetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Akash4406pal/myleetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Akash4406pal/myleetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Akash4406pal/myleetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash4406pal/myleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Akash4406pal/myleetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Akash4406pal/myleetcode/tree/master/0078-subsets) |
@@ -451,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Akash4406pal/myleetcode/tree/master/0835-image-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Akash4406pal/myleetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
