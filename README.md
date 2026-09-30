@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akash4406pal/myleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1408-string-matching-in-an-array) |
 | [1534-count-good-triplets](https://github.com/Akash4406pal/myleetcode/tree/master/1534-count-good-triplets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akash4406pal/myleetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Akash4406pal/myleetcode/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/Akash4406pal/myleetcode/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/Akash4406pal/myleetcode/tree/master/1995-count-special-quadruplets) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Akash4406pal/myleetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Akash4406pal/myleetcode/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Akash4406pal/myleetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3467-transform-array-by-parity](https://github.com/Akash4406pal/myleetcode/tree/master/3467-transform-array-by-parity) |
 ## Enumeration
