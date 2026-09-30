@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/Akash4406pal/myleetcode/tree/master/1405-longest-happy-string) |
 | [1408-string-matching-in-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1408-string-matching-in-an-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Akash4406pal/myleetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Akash4406pal/myleetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1980-find-unique-binary-string](https://github.com/Akash4406pal/myleetcode/tree/master/1980-find-unique-binary-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Akash4406pal/myleetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Akash4406pal/myleetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akash4406pal/myleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Akash4406pal/myleetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akash4406pal/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Akash4406pal/myleetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2363-merge-similar-items](https://github.com/Akash4406pal/myleetcode/tree/master/2363-merge-similar-items) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Akash4406pal/myleetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1980-find-unique-binary-string](https://github.com/Akash4406pal/myleetcode/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/Akash4406pal/myleetcode/tree/master/1995-count-special-quadruplets) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Akash4406pal/myleetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/Akash4406pal/myleetcode/tree/master/1405-longest-happy-string) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Akash4406pal/myleetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akash4406pal/myleetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Counting
 |  |
