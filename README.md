@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akash4406pal/myleetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Akash4406pal/myleetcode/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Akash4406pal/myleetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akash4406pal/myleetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3467-transform-array-by-parity](https://github.com/Akash4406pal/myleetcode/tree/master/3467-transform-array-by-parity) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/Akash4406pal/myleetcode/tree/master/2363-merge-similar-items) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2707-extra-characters-in-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2707-extra-characters-in-a-string) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Akash4406pal/myleetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akash4406pal/myleetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash4406pal/myleetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Akash4406pal/myleetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
