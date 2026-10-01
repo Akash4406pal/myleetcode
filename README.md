@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akash4406pal/myleetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Akash4406pal/myleetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Akash4406pal/myleetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Akash4406pal/myleetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2363-merge-similar-items](https://github.com/Akash4406pal/myleetcode/tree/master/2363-merge-similar-items) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Akash4406pal/myleetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Akash4406pal/myleetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akash4406pal/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Akash4406pal/myleetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Akash4406pal/myleetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2363-merge-similar-items](https://github.com/Akash4406pal/myleetcode/tree/master/2363-merge-similar-items) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akash4406pal/myleetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
