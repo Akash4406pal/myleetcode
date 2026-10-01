@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Akash4406pal/myleetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akash4406pal/myleetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash4406pal/myleetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3379-transformed-array](https://github.com/Akash4406pal/myleetcode/tree/master/3379-transformed-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Akash4406pal/myleetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akash4406pal/myleetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akash4406pal/myleetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3379-transformed-array](https://github.com/Akash4406pal/myleetcode/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/Akash4406pal/myleetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akash4406pal/myleetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akash4406pal/myleetcode/tree/master/3483-unique-3-digit-even-numbers) |
