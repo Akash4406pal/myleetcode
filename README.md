@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/Akash4406pal/myleetcode/tree/master/1405-longest-happy-string) |
 | [1408-string-matching-in-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1408-string-matching-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Akash4406pal/myleetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Akash4406pal/myleetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Akash4406pal/myleetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1980-find-unique-binary-string](https://github.com/Akash4406pal/myleetcode/tree/master/1980-find-unique-binary-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Akash4406pal/myleetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Akash4406pal/myleetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Akash4406pal/myleetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Akash4406pal/myleetcode/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/Akash4406pal/myleetcode/tree/master/1995-count-special-quadruplets) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Akash4406pal/myleetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
