@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/Akash4406pal/myleetcode/tree/master/0139-word-break) |
+| [0164-maximum-gap](https://github.com/Akash4406pal/myleetcode/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/Akash4406pal/myleetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Akash4406pal/myleetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Akash4406pal/myleetcode/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/Akash4406pal/myleetcode/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/Akash4406pal/myleetcode/tree/master/0164-maximum-gap) |
 | [0645-set-mismatch](https://github.com/Akash4406pal/myleetcode/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Akash4406pal/myleetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/0912-sort-an-array) |
@@ -479,13 +481,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Akash4406pal/myleetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Akash4406pal/myleetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Akash4406pal/myleetcode/tree/master/0912-sort-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Akash4406pal/myleetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
