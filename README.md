@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Akash4406pal/myleetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Akash4406pal/myleetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/Akash4406pal/myleetcode/tree/master/1791-find-center-of-star-graph) |
 ## Depth-First Search
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Akash4406pal/myleetcode/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/Akash4406pal/myleetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Akash4406pal/myleetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Akash4406pal/myleetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Akash4406pal/myleetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Akash4406pal/myleetcode/tree/master/0112-path-sum) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Akash4406pal/myleetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/Akash4406pal/myleetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Akash4406pal/myleetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Akash4406pal/myleetcode/tree/master/0733-flood-fill) |
@@ -515,4 +518,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akash4406pal/myleetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Akash4406pal/myleetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
